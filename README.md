@@ -1,2 +1,2 @@
-# shortme
-A simple URL shortener web app built with Meteor and React
+# Short Me
+A simple URL shortener web app. This is built with Meteor for the backend and React for the frontend.
